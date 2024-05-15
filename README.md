@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
   <a href="">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&random=false&width=435&separator=%3C&lines=printf(%22Hello+World!%5Cn%22);%3Cprintf(%22Code+make+world+better.%5Cn%22);"&center=true&size=28 />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&center=true&vCenter=true&pause=1000&random=false&width=435&separator=%3C&lines=printf(%22Hello+World!%5Cn%22);%3Cprintf(%22Code+make+world+better.%5Cn%22);"&size=28 />
   </a>
   </div>
 
